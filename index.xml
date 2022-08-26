@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Minblog</title>
+	<link>https://riiqe.github.io/</link>
+	<description>Minimalistický blog</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>cs</language>
+    
+        <atom:link href="https://riiqe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Soubor stránek</title>
+		<link>https://riiqe.github.io/soubor-stranek/</link>
+		<pubDate>Fri, 26 Aug 2022 15:53:24 +0200</pubDate>
+		
+		<guid>https://riiqe.github.io/soubor-stranek/</guid>
+		<description>&lt;p&gt;Můj osobní výběr užitečných stránek/nástrojů.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://z-lib.org/&#34;&gt;Z-Library&lt;/a&gt; - volně dostupná databáze e-knih&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://libgen.is/&#34;&gt;Library Genesis&lt;/a&gt; - volně dostupná databáze e-knih #2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Project Gutenberg&lt;/a&gt; - volně dostupná databáze e-knih #3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://librivox.org/&#34;&gt;LibriVox&lt;/a&gt; - volně dostupná databáze audioknih&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mlp.cz/cz/&#34;&gt;Městská knihovna v Praze&lt;/a&gt; - databáze e-knih, značnou část e-knih lze získat zadarmo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/&#34;&gt;ArchWiki&lt;/a&gt; - wiki pro ArchLinux, současně nejlepší soubor dokumentace pro GNU/Linux OS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiby.me/&#34;&gt;wiby&lt;/a&gt; - search engine, který indexuje pouze minimalistické stránky&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://invidious.io/&#34;&gt;Invidious&lt;/a&gt; - open source front-end pro YouTube&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://libreddit.de/&#34;&gt;Libreddit&lt;/a&gt; - open source front-end pro Reddit&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.guerrillamail.com/&#34;&gt;Guerrilla Mail&lt;/a&gt; - disposable e-mail adresy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tempail.com/&#34;&gt;TempMail&lt;/a&gt; - disposable e-mail adresy #2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://castrosteven.github.io/random-person-generator/&#34;&gt;Random Person Generator&lt;/a&gt; - generátor fiktivních osob&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Sycnex/Windows10Debloater&#34;&gt;Windows10Debloater&lt;/a&gt; - skript pro Windows 10, odebírá bloatware, nepotřebné aplikace a telemetrie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pixabay.com/&#34;&gt;Pixabay&lt;/a&gt; - volně dostupná databáze obrázků/fotografií&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.spaceseeker.eu/&#34;&gt;Spaceseeker&lt;/a&gt; - tracker vesmírných letů&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/learn/&#34;&gt;freeCodeCamp&lt;/a&gt; - IT tutorialy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mbti-notes.tumblr.com/&#34;&gt;MBTI-notes&lt;/a&gt; - Jungovská psychologie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dejepis.com/&#34;&gt;dějepis.com&lt;/a&gt; - dějepisná e-encyklopedie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iep.utm.edu/&#34;&gt;Internet Encyclopedia of Philosophy&lt;/a&gt; - encyklopedie filozofie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://musicbrainz.org/search&#34;&gt;MusicBrainz&lt;/a&gt; - databáze hudebních vydání, obsahuje HD přebaly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.soulseekqt.net/news/&#34;&gt;Soulseek&lt;/a&gt; - P2P nástroj pro stahování hudby&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/&#34;&gt;Khan Academy&lt;/a&gt; - online kurzy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dosgames.com/&#34;&gt;DOSGames&lt;/a&gt; - staré DOS hry&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
