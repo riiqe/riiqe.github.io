@@ -82,6 +82,14 @@ img {
 	margin-left: -5px;
 }
 
+#ghlink {
+	float: right;
+	text-align: right;
+	padding-top: 6px;
+	margin-left: -5px;
+}
+
+
 #backarrow {
 	float: right;
 	text-align: right;
